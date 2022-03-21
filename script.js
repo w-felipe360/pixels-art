@@ -13,17 +13,6 @@ quadrados();
 
    
 
-
-// function quadrados(){
-    
-//     let pai = document.getElementById('listagem');  
-    
-//     for (let i = 0; i <= 25; i = 0){
-//          let elementos = document.createElement('div');
-//          pai[0].appendChild(elementos);
-//          elementos.className = 'color'
-//          console.log(i)
-//      }
-// }
-
+window.onload
+document.getElementById('black').classList.add('selected')
    
