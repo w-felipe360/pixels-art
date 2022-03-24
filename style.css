@@ -35,5 +35,18 @@
     font-size: 0;
 }
 
+.blackme{
+    background-color: black;
+}
+.greenme{
+    background-color: green;
+}
+
+.redme{
+     background-color: red;
+}
+.blueme{
+    background-color: blue;
+}
 
 
